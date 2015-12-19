@@ -1,6 +1,6 @@
 name: jeremylyon
 favicon: null
-layout_spectrum: 0.24354045395739377
+layout_spectrum: 0.46411
 typography_spectrum: 0.6097787998151034
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#241f1c'
     - '#587193'
   brandStrength: 0.25
-  lightness: 0.3137115528807044
-  saturation: 0.7856784381438047
-  rhythmicContrast: 0.3502769803162664
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
