@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jeremylyon]]></title>
+        <description><![CDATA[jeremylyon]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Dec 2015 23:14:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In the beginning...]]></title>
+            <description><![CDATA[<article><h1>In the beginning...</h1><p>Putting up a personal website has been on my oft-neglected to do list for a while. But my old school (ca. 2001), artisanal, hand-crafted HTML skillz aren't going to make a site of a quality I'm willing to inscribe my name on. So when I heard about the Grid (and got an early-days demo) I was pretty excited to try it out. It's been a long time coming, but you're reading this now because it's finally arrived. </p></article>]]></description>
+            <link>undefinedin-the-beginning/index.html</link>
+            <guid isPermaLink="false">5b63763c-9437-44bd-8bba-b39fc0e89eca</guid>
+            <pubDate>Sat, 19 Dec 2015 23:14:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
